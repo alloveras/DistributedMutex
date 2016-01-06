@@ -1,3 +1,5 @@
 .idea/*
 out/*
 *.iml
+src/Exercici2/build/*
+src/Exercici2/sources.txt

@@ -5,7 +5,6 @@ import Exercici2.NetworkEmulator.Messages.TaskEndedMessage;
 import Exercici2.NetworkEmulator.Messages.TokenMessage;
 import Exercici2.NetworkEmulator.Messages.TriggerMessage;
 import Exercici2.NetworkEmulator.NetworkEmulator;
-import com.sun.istack.internal.Nullable;
 
 public class HeavyWeighNode extends BaseNode {
 
